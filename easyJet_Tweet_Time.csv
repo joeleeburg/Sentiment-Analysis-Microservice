@@ -1,0 +1,5 @@
+ID,DayCat,freq,Time
+1,Morning,821,12:00:00AM to 11:59:00AM
+2,Noon,663,12:00:00PM to 15:59:00PM
+3,Evening,554,16:00:00PM to 19:00:00PM
+4,Night,719,19:01:00PM to 23:59:00PM
